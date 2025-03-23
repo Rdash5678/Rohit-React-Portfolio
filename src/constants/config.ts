@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Rohit Dashaputra Portfolio",
+    fullName: "Rohit Dashaputra",
+    email: "dasharo46@gmail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Rohit Dashaputra",
+    p: ["Senior @ Vernon Hills High School", "Penn State University CE '29"],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,16 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I'm an aspiring computer engineer at 
+      Penn State University with a strong foundation in both hardware 
+      and software development. My expertise spans embedded systems, 
+      circuit design, and low-level programming, along with proficiency 
+      in languages like C, Python, and JavaScript. I thrive on problem-solving and innovation, 
+      leveraging my skills in microcontroller programming, system optimization, 
+      and full-stack development to create efficient and scalable solutions. 
+      Whether it's designing hardware-software integrations or developing high-performance applications, 
+      I am passionate about engineering technology that drives real-world impact. 
+      Let's collaborate to bring cutting-edge ideas to life!`,
     },
     experience: {
       p: "What I have done so far",
