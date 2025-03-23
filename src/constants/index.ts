@@ -8,31 +8,39 @@ import type {
 } from "../types";
 
 import {
-  mobile,
-  backend,
-  creator,
-  web,
-  javascript,
-  typescript,
-  html,
-  css,
-  reactjs,
-  redux,
-  tailwind,
-  nodejs,
-  mongodb,
-  git,
-  figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
-  threejs,
+    mobile, 
+    backend, 
+    creator, 
+    web, 
+    javascript, 
+    typescript, 
+    html, 
+    css, 
+    reactjs, 
+    tailwind,
+    redux,
+    docker,
+    figma,
+    git,
+    threejs,
+    nodejs,
+    mongodb,
+    meta, 
+    starbucks, 
+    tesla, 
+    shopify, 
+    carrent, 
+    jobit, 
+    tripguide, 
 } from "../assets";
+
+import xperience from "../assets/company/xperience.png";
+
+ export { 
+  
+  xperience
+};
+ 
 
 export const navLinks: TNavLink[] = [
   {
