@@ -135,7 +135,7 @@ const experiences: TExperience[] = [
   {
     title: "Computer Science Consulting & Curriculum Devolpment Intern",
     companyName: "Xperience Coding LLC",
-    icon: starbucks,
+    icon: xperience,
     iconBg: "#383E56",
     date: "March 2024 - July 2024",
     points: [
@@ -149,7 +149,7 @@ const experiences: TExperience[] = [
   {
     title: "Co - President of Education and Buisness",
     companyName: "Xperience Coding LLC",
-    icon: tesla,
+    icon: xperience,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
