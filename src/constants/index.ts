@@ -151,6 +151,7 @@ const experiences: TExperience[] = [
     companyName: "Xperience Coding LLC",
     icon: xperience,
     iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
       "Transformed Xperience Coding LLC into a thriving 501(c)(3) nonprofit, leveraging leadership and vision to expand the organization beyond a school-wide event into a community-driven initiative that now serves hundreds of students, offering free coding and engineering camps to youth in the greater Lake County area.",
