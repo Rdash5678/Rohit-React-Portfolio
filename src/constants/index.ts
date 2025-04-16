@@ -25,10 +25,6 @@ import {
     threejs,
     nodejs,
     mongodb,
-    meta, 
-    starbucks, 
-    tesla, 
-    shopify, 
     carrent, 
     jobit, 
     tripguide, 
@@ -151,7 +147,6 @@ const experiences: TExperience[] = [
     companyName: "Xperience Coding LLC",
     icon: xperience,
     iconBg: "#383E56",
-    iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
       "Transformed Xperience Coding LLC into a thriving 501(c)(3) nonprofit, leveraging leadership and vision to expand the organization beyond a school-wide event into a community-driven initiative that now serves hundreds of students, offering free coding and engineering camps to youth in the greater Lake County area.",
@@ -173,22 +168,7 @@ const testimonials: TTestimonial[] = [
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+  
 ];
 
 const projects: TProject[] = [
