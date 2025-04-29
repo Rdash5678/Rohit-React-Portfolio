@@ -231,6 +231,27 @@ const projects: TProject[] = [
     image: tripguide,
     sourceCodeLink: "https://github.com/",
   },
+  {
+    name: "Tech Deal Finder",
+    description:
+      "Tech Deal Finder is a full-stack web application designed to help users find the best technology product deals across multiple e-commerce platforms. It automates the search process by scraping product listings and displaying the most relevant and affordable options in a clean, user-friendly interface.",
+    tags: [
+      {
+        name: "API-integration",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "React",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    sourceCodeLink: "https://github.com/okotwal17/TechDealsScraper",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
