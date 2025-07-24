@@ -162,7 +162,7 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "Rohit has been absolutely instrumental in driving Xperience Coding forward. His technical skills are top-notch — whether it's developing complex backend systems, designing intuitive front-end experiences, or troubleshooting on the fly, he consistently delivers with precision and creativity. Beyond that, his leadership and initiative have helped shape the direction of the organization. From curriculum design to mentoring volunteers, Rohit’s contributions have been invaluable. Xperience wouldn't be where it is today without his hard work, vision, and technical excellence.",
     name: "Adam Lueken",
     designation: "CEO",
     company: "Xperience",
